@@ -1,0 +1,6 @@
+export const SET_TEXT = "SET_TEXT"
+export const PREVIOUS_TEXT = "PREVIOUS_TEXT"
+export const NEXT_TEXT = "NEXT_TEXT"
+export const ENCODE_TO_BASE64 = "ENCODE_TO_BASE64"
+export const EMPTY_DIPLAY = "EMPTY_DISPLAY"
+export const DECODE_BASE64 = "DECODE_BASE64"
